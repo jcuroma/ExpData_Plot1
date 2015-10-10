@@ -31,6 +31,7 @@ plot(sub_project1$DateTime, sub_project1$Global_active_power, type="l", yaxt="n"
          axis(side=2, at=seq(0,3000, 1000), labels=seq(0,6,2))
 dev.off()
 
+<<<<<<< HEAD
 
 
 
@@ -39,3 +40,5 @@ dev.off()
 
 
 
+=======
+>>>>>>> 1030cc2a45fb14e1f08070c02cb1fdc04d8a0fb6
