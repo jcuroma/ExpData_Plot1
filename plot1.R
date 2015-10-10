@@ -26,7 +26,4 @@ hist(sub_project1$Global_active_power, main="Global Active Power", xaxt="n",
               col="red", xlab="Global Active Power (kilowatts)")
               axis(side=1, at=seq(0,3000, 1000), labels=seq(0,6,2))
 dev.off()
-<<<<<<< HEAD
 
-=======
->>>>>>> 1030cc2a45fb14e1f08070c02cb1fdc04d8a0fb6
